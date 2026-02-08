@@ -19,18 +19,17 @@ jobs:
         with:
           node-version: '20'
           
-      - name: Install dependencies
-        run: |
-          npm --version
-          node --version
-          npm install --legacy-peer-deps
-          
-      - name: Build
-        run: npm run build
-        
-      - uses: actions/upload-pages-artifact@v3
+      - run: npm install --legacy-peer-deps
+      
+      - run: npm run build
+      
+      - name: List dist contents
+        run: ls -la dist/
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: './dist'
   
   deploy:
     needs: build
