@@ -28,8 +28,8 @@ const SkillsAndPassions = () => {
             <h2>Languages</h2>
             <ul>
                 <li>English (Fluent)</li>
-                <li>Mandarin Chinese (Conversational)</li>
-                <li>French (Conversational)</li>
+                <li>Mandarin Chinese (Proficient)</li>
+                <li>French (Proficient)</li>
             </ul>
             <h2>Passions</h2>
             <ul>
@@ -40,7 +40,7 @@ const SkillsAndPassions = () => {
                 <li>Calisthenics</li>
                 <li>Soccer</li>
                 <li>Frisbee</li>
-                <li>Gaming</li>
+                <li>Esports</li>
             </ul>
         </div>
     );

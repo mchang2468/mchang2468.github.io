@@ -9,7 +9,7 @@ const Education = () => {
             <h1>Education</h1>
 
             <h2>Yale University</h2>
-            git push -u origin main
+            <img src={yale} className="yalepic" alt="Yale Pic" />
             <p>Attended from August 2025 to Present</p>
             <p>Pursuing a Bachelors of Science in Statistics and Data Science</p>
             <p>Expected Graduation: May 2029</p>

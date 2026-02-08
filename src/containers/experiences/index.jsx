@@ -21,15 +21,17 @@ const Experiences = () => {
         <div>
             <h1>Experiences</h1>
             <h2>Yale Men's Basketball: Student Manager</h2>
-            <p>Analyzed team statistics for strategic feedback; facilitated practices, travel, and logistics</p>
+            <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaching staff</p>
+            <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
             <img src={jla} className="jla" alt="jla" />
             
-            <h2>Yale Computer Society: Catalyst Mentee</h2>
-            <p>Learned web development and UI/UX design skills with fellow Yale students</p>
+            <h2>Yale Computer Society: Catalyst Mentee, Incubator Developer</h2>
+            <p>Learned and applied web development and UI/UX design skills with fellow Yale students</p>
             <img src={ycs} className="ycs" alt="YCS" />
 
-            <h2>Yale Daily News: Production and Design Heeler</h2>
-            <p>Assisted in layout design and production of weekly print newspaper issues</p>
+            <h2>Yale Daily News: Production and Design Staff Member</h2>
+            <p>Curated 20+ pages of print newspaper issues for publication in America's oldest college daily newspaper</p>
+            <p>Collaborated with a staff of 100+ members to contribute to high-quality journalism</p>
             <img src={ydn} className="ydn" alt="YDN" />
             
             <h2>Yale University Diversified Investments: Member</h2>
@@ -37,15 +39,15 @@ const Experiences = () => {
             <img src={yudi} className="yudi" alt="yudi" />
 
             <h2>Yale Media, Entertainment Sports Business Association: Member</h2>
-            <p>Explored career opportunities in media, entertainment, and sports industries</p>
+            <p>Explored career opportunities, connected with leading figures in the sports industry, and contributed to case studies in media, entertainment, and sports industries</p>
             <img src={ymesba} className="ymesba" alt="ymesba" />
 
             <h2>Design for America at Yale: Member</h2>
-            <p>Collaborated on human-centered design projects addressing community needs</p>
-            <p>Conducted a redesign of the Yale Africa Startup Review's website</p>
+            <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
+            <p>Collaborated with Yale School of Management students to develop UI/UX strategy and understand organizational objectives</p>
             <img src={dfa} className="dfa" alt="dfa" />
 
-            <h2>Yale Undergraduate Research Association: Y/Labs: Member</h2>
+            <h2>Y/Labs: UI/UX Strategist</h2>
             <p>Worked on interdisciplinary teams to develop innovations for Yale's research database</p>
             <img src={yura} className="yura" alt="yura" />
 
