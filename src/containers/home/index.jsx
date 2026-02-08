@@ -15,6 +15,7 @@ const Home = () => {
                 </a>
             </div>
             <p>menchang.06@gmail.com</p>
+            <p>michael.chang.mec254@yale.edu</p>
         </div>
     );
 }
