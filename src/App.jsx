@@ -17,7 +17,7 @@ function App() {
       <div className="App">
         {/* particles js */}
 
-        <BrowserRouter>
+        <BrowserRouter basename="/mc.github.io">
           {/* Navigation */}
           <nav>
             <Link to="/">Home</Link> |{" "}
