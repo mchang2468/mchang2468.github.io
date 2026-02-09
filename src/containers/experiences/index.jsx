@@ -15,6 +15,7 @@ import py from './py.gif';
 import resilience from './resilience.png';
 import ten from './ten.jpg';
 import bball from './bball.jpg';
+import ymbb1 from './ymbb1.jpeg';
 
 const Experiences = () => {
     return (
@@ -23,7 +24,7 @@ const Experiences = () => {
             <h2>Yale Men's Basketball: Student Manager</h2>
             <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaching staff</p>
             <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
-            <img src={jla} className="jla" alt="jla" />
+            <img src={ymbb1} className="ymbb1" alt="ymbb1" />
             
             <h2>Yale Computer Society: Catalyst Mentee, Incubator Developer</h2>
             <p>Learned and applied web development and UI/UX design skills with fellow Yale students</p>

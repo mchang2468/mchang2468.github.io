@@ -1,10 +1,11 @@
 import React from "react";
 import MCPFP from './MCPFP.jpeg';
+import ymbb2 from './ymbb2.jpeg';
 
 const Home = () => {
     return (
         <div>
-            <img src={MCPFP} className="mcpfp" alt="mcpfp" />
+            <img src={ymbb2} className="ymbb2" alt="ymbb2" />
             <h1>Michael Chang's Portfolio</h1>
             <div>
                 <a href="https://www.linkedin.com/in/michael-chang-12aa17303/" target="_blank">
