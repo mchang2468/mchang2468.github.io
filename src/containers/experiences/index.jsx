@@ -43,7 +43,7 @@ const Experiences = () => {
             <p>Explored career opportunities, connected with leading figures in the sports industry, and contributed to case studies in media, entertainment, and sports industries</p>
             <img src={ymesba} className="ymesba" alt="ymesba" />
 
-            <h2>Design for America at Yale: Member</h2>
+            <h2>Design for America at Yale: UI/UX Designer</h2>
             <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
             <p>Collaborated with Yale School of Management students to develop UI/UX strategy and understand organizational objectives</p>
             <img src={dfa} className="dfa" alt="dfa" />
