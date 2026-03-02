@@ -35,7 +35,7 @@ const SkillsAndPassions = () => {
                 <li>Adobe InDesign</li>
                 <li>Adobe Photoshop</li>
                 <li>Synergy Sports Analytics</li>
-                <li>kenpom.com</li>
+                <li>Kenpom</li>
                 <li>Sports Reference</li>
                 <li>Google Suite</li>
                 <li>Microsoft Office Suite</li>
