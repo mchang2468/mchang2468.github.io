@@ -6,22 +6,36 @@ const SkillsAndPassions = () => {
             <h1>Skills and Passions</h1>
             <h2>Programming</h2>
             <ul>
-                <li>Python</li>
-                <li>JavaScript</li>
-                <li>HTML/CSS</li>
-                <li>React</li>
-                <li>C</li>
-                <li>Java</li>
                 <li>R</li>
+                <li>Python</li>
+                <li>Java</li>
+                <li>C</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
                 <li>LaTeX</li>
+                <li>AI/ML</li>
+                <li>Data Visualization</li>
+                <li>Statistical Analysis</li>
+                <li>UI/UX and Product Design</li>
             </ul>
             <h2>Software</h2>
             <ul>
                 <li>Git/GitHub</li>
                 <li>VS Code</li>
                 <li>Replit</li>
+                <li>Jupyter Notebooks</li>
+                <li>RStudio</li>
+                <li>Eclipse IDE</li>
+                <li>Figma</li>
+                <li>Canva</li>
+                <li>Hostinger</li>
+                <li>Wix</li>
                 <li>Adobe InDesign</li>
                 <li>Adobe Photoshop</li>
+                <li>Synergy Sports Analaytics</li>
+                <li>kenpom.com</li>
                 <li>Google Suite</li>
                 <li>Microsoft Office Suite</li>
             </ul>
@@ -41,6 +55,7 @@ const SkillsAndPassions = () => {
                 <li>Soccer</li>
                 <li>Frisbee</li>
                 <li>Esports</li>
+                <li>Graphic Design</li>
             </ul>
         </div>
     );

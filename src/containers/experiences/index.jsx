@@ -74,6 +74,7 @@ const Experiences = () => {
 
             <h2>Rutgers Prep Orchestras: Orchestra Librarian, Concertmaster</h2>
             <p>Organized, selected, and prepared sheet music for a 60-person orchestra program</p>
+            <p>Achieved two "superior" adjudications in Music in the Parks competitions as a violinist</p>
             <img src={orch} className="orch" alt="orch" />
             
             <h2>Huaxia Chinese School at Bridgewater: Teaching Assistant</h2>
