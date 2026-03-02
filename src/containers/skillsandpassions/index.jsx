@@ -34,8 +34,9 @@ const SkillsAndPassions = () => {
                 <li>Wix</li>
                 <li>Adobe InDesign</li>
                 <li>Adobe Photoshop</li>
-                <li>Synergy Sports Analaytics</li>
+                <li>Synergy Sports Analytics</li>
                 <li>kenpom.com</li>
+                <li>Sports Reference</li>
                 <li>Google Suite</li>
                 <li>Microsoft Office Suite</li>
             </ul>
