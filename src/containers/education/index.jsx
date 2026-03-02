@@ -16,7 +16,7 @@ const Education = () => {
             <h3>Clubs and Societies:</h3>
             <ul>
                 <li>Relevant Coursework: Linear Algebra, Data Exploration and Analysis, Econometrics, Information Systems</li>
-                <li>Activities and Societies: Yale Men’s Basketball, Yale Daily News, Yale University Diversified Investments, Yale Media, Entertainment, and Sports Business Association, Design for America, Y/Labs, Yale Computer Society</li>
+                <li>Activities and Societies: Yale MBB, YDN, YMESBA, DFA, y/cs, Clash at Yale</li>
             </ul>
 
             <h2>Rutgers Preparatory School</h2>

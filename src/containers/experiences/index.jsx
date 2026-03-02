@@ -5,7 +5,7 @@ import ydn from './ydn.jpg';
 import yudi from './yudi.png';
 import ymesba from './ymesba.jpg';
 import dfa from './dfa.webp';
-import yura from './yura.png';
+import clash from './clash.jpeg';
 import mega from './mega.png';
 import argo from './argo.png';
 import nsda from './nsda.png';
@@ -21,19 +21,31 @@ const Experiences = () => {
     return (
         <div>
             <h1>Experiences</h1>
+
+            <h2>Design for America at Yale: Product Designer</h2>
+            <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
+            <p>Collaborated with Yale School of Management students and Lenovo to develop product design strategy and understand organizational objectives</p>
+            <img src={dfa} className="dfa" alt="dfa" />
+
             <h2>Yale Men's Basketball: Student Manager</h2>
             <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaching staff</p>
             <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
             <img src={ymbb1} className="ymbb1" alt="ymbb1" />
-            
-            <h2>Yale Computer Society: Catalyst Mentee, Incubator Developer</h2>
-            <p>Learned and applied web development and UI/UX design skills with fellow Yale students</p>
-            <img src={ycs} className="ycs" alt="YCS" />
+
+            <h2>MEGA: Hackathon Winner, Debate Lead, CMO, President</h2>
+            <p>Won the Business Innovator Award (best business plan aligning with the UN’s SDGs)</p>
+            <p>Spearheaded event marketing, contributing to 2000+ participants and $1,000,000+ in prizes</p>
+            <p>Organized and judged a global virtual public forum STEM debate with 30+ debaters</p>
+            <img src={mega} className="mega" alt="mega" />
 
             <h2>Yale Daily News: Production and Design Staff Member</h2>
             <p>Curated 20+ pages of print newspaper issues for publication in America's oldest college daily newspaper</p>
             <p>Collaborated with a staff of 100+ members to contribute to high-quality journalism</p>
             <img src={ydn} className="ydn" alt="YDN" />
+            
+            <h2>Yale Computer Society: Catalyst Mentee, Incubator Developer</h2>
+            <p>Learned and applied web development and UI/UX design skills with fellow Yale students</p>
+            <img src={ycs} className="ycs" alt="YCS" />
             
             <h2>Yale University Diversified Investments: Member</h2>
             <p>Conducted market research and learned about financial analysis</p>
@@ -44,16 +56,10 @@ const Experiences = () => {
             <p>Contributed to case studies in media, entertainment, and sports industries</p>
             <img src={ymesba} className="ymesba" alt="ymesba" />
 
-            <h2>Design for America at Yale: Product Designer</h2>
-            <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
-            <p>Collaborated with Yale School of Management students and Lenovo to develop product design strategy and understand organizational objectives</p>
-            <img src={dfa} className="dfa" alt="dfa" />
-
-            <h2>MEGA: Hackathon Winner, Debate Lead, CMO, President</h2>
-            <p>Won the Business Innovator Award (best business plan aligning with the UN’s SDGs)</p>
-            <p>Spearheaded event marketing, contributing to 2000+ participants and $1,000,000+ in prizes</p>
-            <p>Organized and judged a global virtual public forum STEM debate with 30+ debaters</p>
-            <img src={mega} className="mega" alt="mega" />
+            <h2>Clash at Yale: An Undergraduate Clash of Clans Organization: Co-Founder and President</h2>
+            <p>Founded and led a student organization for the Yale undergraduate community</p>
+            <p>Organized and hosted biweekly meetings, events, and tournaments for Yale students interested in Clash of Clans</p>
+            <img src={clash} className="clash" alt="clash" />
 
             <h2>The Argo and The Argo Jr.: Staff Writer, Sports Section Editor, Tech Editor</h2>
             <p>Workshopped article ideas in close collaboration with a team of staff writers</p>
