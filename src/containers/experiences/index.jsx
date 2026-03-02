@@ -40,17 +40,14 @@ const Experiences = () => {
             <img src={yudi} className="yudi" alt="yudi" />
 
             <h2>Yale Media, Entertainment Sports Business Association: Member</h2>
-            <p>Explored career opportunities, connected with leading figures in the sports industry, and contributed to case studies in media, entertainment, and sports industries</p>
+            <p>Explored career opportunities by connecting with leading figures in the sports industry</p>  
+            <p>Contributed to case studies in media, entertainment, and sports industries</p>
             <img src={ymesba} className="ymesba" alt="ymesba" />
 
             <h2>Design for America at Yale: Product Designer</h2>
             <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
             <p>Collaborated with Yale School of Management students and Lenovo to develop product design strategy and understand organizational objectives</p>
             <img src={dfa} className="dfa" alt="dfa" />
-
-            <h2>Y/Labs: UI/UX Strategist</h2>
-            <p>Worked on interdisciplinary teams to develop innovations for Yale's research database</p>
-            <img src={yura} className="yura" alt="yura" />
 
             <h2>MEGA: Hackathon Winner, Debate Lead, CMO, President</h2>
             <p>Won the Business Innovator Award (best business plan aligning with the UN’s SDGs)</p>
