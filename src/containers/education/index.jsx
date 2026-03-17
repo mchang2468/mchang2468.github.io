@@ -13,7 +13,6 @@ const Education = () => {
             <p>Attended from August 2025 to Present</p>
             <p>Pursuing a Bachelors of Science in Statistics and Data Science</p>
             <p>Expected Graduation: May 2029</p>
-            <h3>Clubs and Societies:</h3>
             <ul>
                 <li>Relevant Coursework: Linear Algebra, Data Exploration and Analysis, Econometrics, Information Systems</li>
                 <li>Activities and Societies: Yale MBB, YDN, YMESBA, DFA, y/cs, Clash at Yale</li>
