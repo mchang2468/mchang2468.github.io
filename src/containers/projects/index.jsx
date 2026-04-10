@@ -17,7 +17,7 @@ const Projects = () => {
                 <a href="https://docs.google.com/spreadsheets/d/1ULqkaAw3pYtHSvavfLuvv-h-PNb1hHTnpl0Lz80tZhk/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Men's Basketball Cumulative Reversal Data</a>
             </div>
             <div>
-                <a href="https://samuelkitara14.wixsite.com/website-2" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Wix)</a>
+                <a href="https://samuelkitara14.wixsite.com/website-2" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Wix Site)</a>
             </div>
             <div>
                 <a href="https://www.behance.net/gallery/247106937/YASR?tracking_source=search_projects|yasr&l=0" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Behance)</a>
