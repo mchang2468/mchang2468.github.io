@@ -32,7 +32,7 @@ const Experiences = () => {
             <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
             <img src={ymbb1} className="ymbb1" alt="ymbb1" />
 
-            <h2>MEGA: Hackathon Winner, Debate Lead, CMO, President, Senior Advisor</h2>
+            <h2>MEGA: Hackathon Winner, Debate Lead, Chief Marking Officer, President, Senior Advisor</h2>
             <p>Won the Business Innovator Award (best business plan aligning with the UN’s SDGs)</p>
             <p>Spearheaded event marketing, contributing to 2000+ participants and $1,000,000+ in prizes</p>
             <p>Organized and judged a global virtual public forum STEM debate with 30+ debaters</p>
