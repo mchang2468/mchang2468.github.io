@@ -8,6 +8,7 @@ const SkillsAndPassions = () => {
             <ul>
                 <li>R</li>
                 <li>Python</li>
+                <li>SQL</li>
                 <li>Java</li>
                 <li>C</li>
                 <li>HTML</li>
