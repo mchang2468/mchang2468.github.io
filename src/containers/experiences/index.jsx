@@ -16,11 +16,32 @@ import resilience from './resilience.png';
 import ten from './ten.jpg';
 import bball from './bball.jpg';
 import ymbb1 from './ymbb1.jpeg';
+import yale1 from './yale1.webp';
+import bnbmc from './bnbmc.png';
+import lenovo from './lenovo.jpg';
 
 const Experiences = () => {
     return (
         <div>
             <h1>Experiences</h1>
+
+            <h2>Yale University: AI + Sociology Research Assistant</h2>
+            <p>Collaborated with Professor Daniel Karell in recurring strategic meetings</p>
+            <p>Developed course materials for a Yale undergraduate course</p>
+            <p>Conducted LLM implementation, educational, and research studies</p>
+            <img src={yale1} className="yale1" alt="yale1" />
+
+            <h2>Bergen New Bridge Medical Center: Data Analytics Intern</h2>
+            <p>Organized and labeled data, ensuring alignment with business needs</p>
+            <p>Performed sentiment analysis on web reviews for financial progress</p>
+            <p>Pinpointed and presented areas for improvement in data dashboards</p>
+            <img src={bnbmc} className="bnbmc" alt="bnbmc" />
+
+            <h2>Lenovo: Product Design Strategist</h2>
+            <p>Collaborated with a team of fellow undergraduates and Lenovo employees in designing a full solution stack to boost the popular opinion of Lenovo's iconic TrackPoint</p>
+            <p>Conducted user studies on 90+ members of the Yale community</p>
+            <p>Presented research findings and solution proposals in a consulting-style presentation at the Lenovo US HQ</p>
+            <img src={lenovo} className="lenovo" alt="lenovo" />
 
             <h2>Design for America at Yale: Product Designer</h2>
             <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
