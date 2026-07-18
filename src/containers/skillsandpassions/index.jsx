@@ -11,6 +11,7 @@ const SkillsAndPassions = () => {
                 <li>SQL</li>
                 <li>Java</li>
                 <li>C</li>
+                <li>UNIX</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
@@ -36,11 +37,16 @@ const SkillsAndPassions = () => {
                 <li>Wix</li>
                 <li>Adobe InDesign</li>
                 <li>Adobe Photoshop</li>
+                <li>Notion</li>
                 <li>Synergy Sports Analytics</li>
                 <li>Kenpom</li>
                 <li>Sports Reference</li>
                 <li>Google Suite</li>
                 <li>Microsoft Office Suite</li>
+                <li>Claude</li>
+                <li>ChatGPT</li>
+                <li>Microsoft Copilot</li>
+                <li>Google Gemini</li>
             </ul>
             <h2>Languages</h2>
             <ul>

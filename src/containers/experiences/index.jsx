@@ -26,37 +26,35 @@ const Experiences = () => {
             <h1>Experiences</h1>
 
             <h2>Yale University: AI + Sociology Research Assistant</h2>
-            <p>Collaborated with Professor Daniel Karell in recurring strategic meetings</p>
-            <p>Developed course materials for a Yale undergraduate course</p>
-            <p>Conducted LLM implementation, educational, and research studies</p>
+            <p>Planned curriculum and teaching objectives with Professor Daniel Karell</p>
+            <p>Synthesized 50+ AI-related research papers to develop 500+ slides and supplemental course materials for SOCY 1200</p>
             <img src={yale1} className="yale1" alt="yale1" />
 
             <h2>Bergen New Bridge Medical Center: Data Analytics Intern</h2>
-            <p>Organized and labeled data, ensuring alignment with business needs</p>
-            <p>Performed sentiment analysis on web reviews for financial progress</p>
-            <p>Pinpointed and presented areas for improvement in data dashboards</p>
+            <p>Conducted ETL processes on data to further strategic business objectives</p>
+            <p>Programmed 10+ data dashboards for use by department directors</p>
+            <p>Performed sentiment analysis on 1,000+ patient reviews</p>
             <img src={bnbmc} className="bnbmc" alt="bnbmc" />
 
             <h2>Lenovo: Product Design Strategist</h2>
-            <p>Collaborated with a team of fellow undergraduates and Lenovo employees in designing a full solution stack to boost the popular opinion of Lenovo's iconic TrackPoint</p>
-            <p>Conducted user studies on 90+ members of the Yale community</p>
-            <p>Presented research findings and solution proposals in a consulting-style presentation at the Lenovo US HQ</p>
+            <p>Collaborated with undergraduates and Lenovo employees to design a full solution stack to boost public perception of Lenovo’s TrackPoint</p>
+            <p>Presented research findings to executives at Lenovo’s U.S. headquarters</p>
+            <p>Piloted and schematized user studies on 90+ Yale community members</p>
             <img src={lenovo} className="lenovo" alt="lenovo" />
 
             <h2>Design for America at Yale: Product Designer</h2>
-            <p>Applied front-end development skills to redesign and optimize the Yale Africa Startup Review’s website</p>
-            <p>Collaborated with Yale School of Management students and Lenovo to develop product design strategy and understand organizational objectives</p>
+            <p>Applied front-end development skills to redesign the Yale Africa Startup Review’s website, focusing on optimized user experience</p>
+            <p>Collaborated with Yale School of Management students to enhance marketing strategy and outreach to stakeholders with $1B+ valuation</p>
             <img src={dfa} className="dfa" alt="dfa" />
 
             <h2>Yale Men's Basketball: Student Manager</h2>
-            <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaching staff</p>
+            <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaches, contributing to 24W-7L championship season</p>
             <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
             <img src={ymbb1} className="ymbb1" alt="ymbb1" />
 
             <h2>MEGA: Hackathon Winner, Debate Lead, Chief Marking Officer, President, Senior Advisor</h2>
-            <p>Won the Business Innovator Award (best business plan aligning with the UN’s SDGs)</p>
-            <p>Spearheaded event marketing, contributing to 2000+ participants and $1,000,000+ in prizes</p>
-            <p>Organized and judged a global virtual public forum STEM debate with 30+ debaters</p>
+            <p>Led nonprofit organization focused on technology and sustainable development, spearheading the planning process for five global hackathons with 2000+ participants and $1,000,000+ in prizes</p>
+            <p>Grew and managed team of 20+ student organizers</p>
             <img src={mega} className="mega" alt="mega" />
 
             <h2>Yale Daily News: Production and Design Staff Member</h2>
