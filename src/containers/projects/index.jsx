@@ -23,10 +23,13 @@ const Projects = () => {
                 <a href="https://issuu.com/yaledailynews" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Daily News (Issuu)</a>
             </div>
             <div>
-                <a href="https://samuelkitara14.wixsite.com/website-2" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Wix Site)</a>
+                <a href="https://samuelkitara14.wixsite.com/website-2" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign Prototype (Wix Site)</a>
             </div>
             <div>
                 <a href="https://www.behance.net/gallery/247106937/YASR?tracking_source=search_projects|yasr&l=0" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Behance)</a>
+            </div>
+            <div>
+                <a href="https://yasr.org/" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Live Site)</a>
             </div>
         </div>
     );
