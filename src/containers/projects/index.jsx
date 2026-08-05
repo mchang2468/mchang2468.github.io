@@ -5,7 +5,7 @@ const Projects = () => {
         <div>
             <h1>Projects</h1>
             <div>
-                <a href="https://docs.google.com/document/d/137yhYT5La3VaW0fYJAUtaQsGMzAUF7C95IjvXA6bK-0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Click Here] Tic-Tac-Toe in Python</a>
+                <a href="https://github.com/mchang2468/tic-tac-toe" target="_blank" rel="noopener noreferrer"> [Click Here] Tic-Tac-Toe in Python</a>
             </div>
             <div>
                 <a href="https://drive.google.com/drive/folders/1t1kejBp4pUpkWmhu1t66p9H43ZozxHQR?usp=sharing" target="_blank" rel="noopener noreferrer"> [Click Here] The Argo: High School Newspapers</a>
@@ -17,7 +17,7 @@ const Projects = () => {
                 <a href="https://claude.ai/public/artifacts/6877a0fd-fb9f-4005-922a-33b2206372dc" target="_blank" rel="noopener noreferrer"> [Click Here] Basketball Ball Reversal Possession Tracker</a>
             </div>
             <div>
-                <a href="https://docs.google.com/spreadsheets/d/1ULqkaAw3pYtHSvavfLuvv-h-PNb1hHTnpl0Lz80tZhk/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Men's Basketball Cumulative Reversal Data</a>
+                <a href="https://docs.google.com/spreadsheets/d/1ULqkaAw3pYtHSvavfLuvv-h-PNb1hHTnpl0Lz80tZhk/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Men's Basketball Cumulative Reversal Data Sheet Template</a>
             </div>
             <div>
                 <a href="https://issuu.com/yaledailynews" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Daily News (Issuu)</a>
@@ -33,6 +33,9 @@ const Projects = () => {
             </div>
             <div>
                 <a href="https://mchang2468.github.io/socy1200-new/" target="_blank" rel="noopener noreferrer"> [Click Here] SOCY 1200: Introduction to Using AI to Study Society Course Website</a>
+            </div>
+            <div>
+                <a href="https://claude.ai/public/artifacts/1f22c6a7-5191-4b59-8128-3a65ab681bd9" target="_blank" rel="noopener noreferrer"> [Click Here] Basketball Paint Touches Possession Tracker</a>
             </div>
         </div>
     );
