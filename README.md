@@ -1,4 +1,2 @@
 Welcome to Michael Chang's portfolio!
-
-To view the site, press the green "Code" button, press "Download ZIP," extract the files, and then open the folder in Visual Studio Code.
-Once in Visual Studio Code, open the terminal and enter "npm run dev" to view the website.
+Site URL: https://mchang2468.github.io/
