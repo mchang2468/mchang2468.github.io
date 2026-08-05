@@ -31,6 +31,9 @@ const Projects = () => {
             <div>
                 <a href="https://yasr.org/" target="_blank" rel="noopener noreferrer"> [Click Here] Yale Africa Startup Review Website Redesign (Live Site)</a>
             </div>
+            <div>
+                <a href="https://mchang2468.github.io/socy1200-new/" target="_blank" rel="noopener noreferrer"> [Click Here] SOCY 1200: Introduction to Using AI to Study Society Course Website</a>
+            </div>
         </div>
     );
 }
