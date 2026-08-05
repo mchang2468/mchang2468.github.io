@@ -27,12 +27,12 @@ const Experiences = () => {
 
             <h2>Yale University: AI + Sociology Research Assistant</h2>
             <p>Planned curriculum and teaching objectives with Professor Daniel Karell</p>
-            <p>Synthesized 50+ AI-related research papers to develop 500+ slides and supplemental course materials for SOCY 1200</p>
+            <p>Synthesized 50+ AI-related research papers to develop 500+ slides, course website, and supplemental course materials for SOCY 1200</p>
             <img src={yale1} className="yale1" alt="yale1" />
 
             <h2>Bergen New Bridge Medical Center: Data Analytics Intern</h2>
             <p>Conducted ETL processes on data to further strategic business objectives</p>
-            <p>Programmed 10+ data dashboards for use by department directors</p>
+            <p>Programmed 10+ data dashboards for use by executives and directors</p>
             <p>Performed sentiment analysis on 1,000+ patient reviews</p>
             <img src={bnbmc} className="bnbmc" alt="bnbmc" />
 
