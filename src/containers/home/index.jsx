@@ -11,7 +11,7 @@ const Home = () => {
                 <a href="https://www.linkedin.com/in/michael-chang-12aa17303/" target="_blank">
                     <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" className="logo" alt="LinkedIn Logo" />
                 </a>
-                <a href="https://drive.google.com/file/d/12S0-0DdEgM7oT_stnXyHXxp22gXN1V-I/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1BJUOtlVCDvbU5umfNGrxh7Uf5ekciGK3/view?usp=sharing" target="_blank">
                     <img src="https://static.vecteezy.com/system/resources/previews/055/533/475/large_2x/a-sleek-transparent-pen-with-a-silver-clip-resting-on-a-minimalistic-transparent-background-pen-transparent-background-free-png.png" className="logo" alt="Resume Logo" />
                 </a>
             </div>
