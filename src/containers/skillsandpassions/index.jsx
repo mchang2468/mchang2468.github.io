@@ -24,8 +24,10 @@ const SkillsAndPassions = () => {
             </ul>
             <h2>Software</h2>
             <ul>
+                <li>Tableau</li>
                 <li>Domo</li>
-                <li>Git/GitHub</li>
+                <li>Git</li>
+                <li>GitHub</li>
                 <li>VS Code</li>
                 <li>Replit</li>
                 <li>Jupyter Notebooks</li>
