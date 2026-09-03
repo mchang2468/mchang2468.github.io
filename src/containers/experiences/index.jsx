@@ -47,7 +47,7 @@ const Experiences = () => {
             <p>Collaborated with Yale School of Management students to enhance marketing strategy and outreach to stakeholders with $1B+ valuation</p>
             <img src={dfa} className="dfa" alt="dfa" />
 
-            <h2>Yale Men's Basketball: Student Manager</h2>
+            <h2>Yale Men's Basketball: Head Manager</h2>
             <p>Analyzed player statistics and created data visualizations for reference by NCAA Division I coaches, contributing to 24W-7L championship season</p>
             <p>Researched statistical records to prepare coaching reports regarding the efficacy of pick-and-roll defense and ball reversal strategies</p>
             <img src={ymbb1} className="ymbb1" alt="ymbb1" />
