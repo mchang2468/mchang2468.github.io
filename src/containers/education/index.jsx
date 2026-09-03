@@ -11,10 +11,10 @@ const Education = () => {
             <h2>Yale University</h2>
             <img src={yale} className="yalepic" alt="Yale Pic" />
             <p>Attended from August 2025 to Present</p>
-            <p>Pursuing a Bachelors of Science in Statistics and Data Science</p>
-            <p>Expected Graduation: May 2029</p>
+            <p>Pursuing a Bachelors of Science in Statistics and Data Science | Expected Graduation: May 2029</p>
+            <p>GPA: 3.8/4.0</p>
             <ul>
-                <li>Relevant Coursework: Linear Algebra, Data Exploration and Analysis, Econometrics, Information Systems</li>
+                <li>Relevant Coursework: Linear Algebra; Data Exploration and Analysis; Econometrics; Information Systems; Data Structures and Programming Techniques; Probability Theory; Computers, Networks, and Society</li>
                 <li>Activities and Societies: Yale MBB, YDN, YMESBA, DFA, y/cs, Clash at Yale</li>
             </ul>
 
@@ -25,7 +25,7 @@ const Education = () => {
             <p>GPA: 4.67 Weighted | SAT: 1570/1600</p>
             <ul>
                 <li>Honors: Cum Laude, August H. Daviet Scholarship, Highest Academic Honors</li>
-                <li>Relevant Coursework: Multivariable and Vector Calculus, Cybersecurity, Data Analysis with Python</li>
+                <li>Relevant Coursework: Multivariable and Vector Calculus; Cybersecurity; Data Analysis with Python; AP Computer Science A; AP Calculus BC; Game Theory</li>
                 <li>Activities and Societies: Tri-M Music Honors Society, National English Honor Society, Société Honoraire de Française, The Argo (School Newspaper), Speech and Debate Club, Orchestras, Basketball, Tennis, Senior Prefect</li>
             </ul>
 
