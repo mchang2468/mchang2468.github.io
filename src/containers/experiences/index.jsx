@@ -36,7 +36,7 @@ const Experiences = () => {
             <p>Performed sentiment analysis on 1,000+ patient reviews</p>
             <img src={bnbmc} className="bnbmc" alt="bnbmc" />
 
-            <h2>Lenovo: Product Design Strategist</h2>
+            <h2>Lenovo: Product Design Student Strategist</h2>
             <p>Collaborated with undergraduates and Lenovo employees to design a full solution stack to boost public perception of Lenovo’s TrackPoint</p>
             <p>Presented research findings to executives at Lenovo’s U.S. headquarters</p>
             <p>Piloted and schematized user studies on 90+ Yale community members</p>
