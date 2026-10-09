@@ -42,7 +42,7 @@ const Experiences = () => {
             <p>Piloted and schematized user studies on 90+ Yale community members</p>
             <img src={lenovo} className="lenovo" alt="lenovo" />
 
-            <h2>Design for America at Yale: Product Designer</h2>
+            <h2>Design for America at Yale: Product Design Consultant and Project Manager</h2>
             <p>Applied front-end development skills to redesign the Yale Africa Startup Review’s website, focusing on optimized user experience</p>
             <p>Collaborated with Yale School of Management students to enhance marketing strategy and outreach to stakeholders with $1B+ valuation</p>
             <img src={dfa} className="dfa" alt="dfa" />
