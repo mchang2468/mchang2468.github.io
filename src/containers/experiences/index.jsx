@@ -4,7 +4,7 @@ import ycs from './ycs.jpg';
 import ydn from './ydn.jpg';
 import yudi from './yudi.png';
 import ymesba from './ymesba.jpg';
-import dfa from './dfa.webp';
+import dfa from './dfayale_logo.jpg';
 import clash from './clash.jpeg';
 import mega from './mega.png';
 import argo from './argo.png';
@@ -19,11 +19,17 @@ import ymbb1 from './ymbb1.jpeg';
 import yale1 from './yale1.webp';
 import bnbmc from './bnbmc.png';
 import lenovo from './lenovo.jpg';
+import ecosia from './ecosia.avif';
 
 const Experiences = () => {
     return (
         <div>
             <h1>Experiences</h1>
+
+            <h2>Ecosia: Student Project Manager</h2>
+            <p>Spearheaded a project that aims to grow the user base of the search engine at universities with a commercial growth manager at Ecosia</p>
+            <p>Led a team of Yale undergraduate students in conducting user research and designing product solutions</p>
+            <img src={ecosia} className="ecosia" alt="ecosia" />
 
             <h2>Yale University: AI + Sociology Research Assistant</h2>
             <p>Planned curriculum and teaching objectives with Professor Daniel Karell</p>
@@ -42,7 +48,7 @@ const Experiences = () => {
             <p>Piloted and schematized user studies on 90+ Yale community members</p>
             <img src={lenovo} className="lenovo" alt="lenovo" />
 
-            <h2>Design for America at Yale: Product Design Consultant and Project Manager</h2>
+            <h2>World Studios Yale: Product Design Consultant and Project Manager</h2>
             <p>Applied front-end development skills to redesign the Yale Africa Startup Review’s website, focusing on optimized user experience</p>
             <p>Collaborated with Yale School of Management students to enhance marketing strategy and outreach to stakeholders with $1B+ valuation</p>
             <img src={dfa} className="dfa" alt="dfa" />
